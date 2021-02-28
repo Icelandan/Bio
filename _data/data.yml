@@ -43,14 +43,14 @@ education:
       details: |
         The Department of Informatics of the Ionian University is the only department in Greece adopting an interdisciplinary association of ICT in the humanities. 
           
-experiences: No major experiences so far.
+experiences: 
     - role: 
       time: 
       company: 
-      details: 
+      details: No major experiences so far.
  
-projects: No major projects so far.
-    title: 
+projects: 
+    title: No major projects so far.
     intro: 
     assignments:
       - title: 
